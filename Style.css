@@ -1,0 +1,16 @@
+*{  
+ margin: 0px;
+ padding: 0px;
+}
+body{
+    width: auto;
+    height: auto;
+}
+header{
+    display: flex;
+    height: 12.5rem;
+}
+#menu{
+    justify-content: center;
+    align-items: center;
+}
